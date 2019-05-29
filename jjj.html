@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Swiper demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <style type="text/css">
+        body { -ms-touch-action: none; }
+    </style>
+    <!-- Demo styles -->
+    <style>
+
+    html, body {
+        height: 100%;
+        width: 100%;
+        background-color: rgba(0,0,0,0);
+        background-size: cover;
+        min-height: 100%;
+        max-width:100%;
+    }
+    body {
+        background: rgba(0,0,0,0);
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .code {
+        display: inline-block;
+        padding: 5px;
+        border: 1px solid #ccc;
+        color: #B0B0B0;
+        background-color: #173C47;
+        border-radius: 3px;
+      }
+
+      .overlay {
+        position: absolute;
+        display: inline-block;
+        width: 639px; /* same width as iframe below */
+        height: 523px; /* same height as iframe below */
+        pointer-events: none;
+      }
+
+      .c-tag {
+        color: #B38D36;
+      }
+
+      .c-attribute {
+        color: #48B093;
+      }
+    .swiper-container {
+        width: 23%;
+        height: 100%;
+        background: rgba(0,0,0,0);
+    }
+    .swiper-slide {
+        width: 60%;
+        height: 60%;
+        text-align: center;
+        font-size: 18px;
+        background: rgba(0,0,0,0);
+        
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    </style>
+     <!-- Swiper JS -->
+     <script src="js/swiper.min.js"></script>
+     <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <div style="position:relative;left: 33%;">
+        <img src="./images/guang.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"   >
+        <!-- <img src="./images/particle.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"  > -->
+        <div style="position:absolute; z-index:3;background-color: rgba(0,0,0,0);height: 310px;height: 310px;left: 6%;width: 29%;margin-top: 23%;">
+            <iframe src="particle.html"
+                allowfullscreen
+                style="position: absolute; top: 0px; left: 0px; height: 117%; width: 1px; min-width: 77%; *width: 100%;    background-color: rgba(0,0,0,0);"
+                frameborder="0"
+                scrolling="no">
+            </iframe>
+        </div>
+        <div class="overlay" id="overlay">&nbsp;</div>
+        <div style="background-color: rgba(0,0,0,0);left: 7%;width: 21%;margin-top: 26%;height: 310px;position: absolute;overflow: hidden;z-index: 4;background-repeat: no-repeat;background-size: cover;">
+          <iframe src="zhaji_model.html"
+                  allowfullscreen
+                  style="position: absolute; top: 0px; left: 0px; height: 117%; width: 1px; min-width: 77%; *width: 100%;    background-color: rgba(0,0,0,0);"
+                  frameborder="0"
+                  scrolling="no">
+          </iframe>
+        </div>
+        <img src="./images/back_image.jpg" style="position:absolute; z-index:1;background-color: rgba(0,0,0,0)"  width="33%"  >
+        
+        <div class="swiper-container" id="container" style="position:absolute; z-index:3;height:310px;background-color: rgba(0,0,0,0);width: 8%;    margin-left: 27.5%;
+        margin-top: 23%;">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide swiperId0" style="background-image: url('images/K1_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId1" style="background-image: url('images/ball_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId2" style="background-image: url('images/gun_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId3" style="background-image: url('images/zj_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                </div>
+        </div>
+        <img src="./images/under.png" style="position:absolute; top:13px; z-index:2;background-color: rgba(0,0,0,0)" width="33%" >
+    </div>
+
+    <!-- Swiper -->
+    <!-- <div style=" width: 36%; height: 100%;">
+        <div class="swiper-container" id="container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide swiperId0" style="background-image: url('images/K1_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                <div class="swiper-slide swiperId1" style="background-image: url('images/ball_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                <div class="swiper-slide swiperId2" style="background-image: url('images/gun_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                <div class="swiper-slide swiperId3" style="background-image: url('images/zj_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+            </div>
+        </div>
+    </div> 
+    -->
+    <script>
+
+    var swiper = new Swiper('.swiper-container', {
+        // effect : 'fade',
+        slidesPerGroup:1,
+        slidesPerView: 3,
+        centeredSlides:true,
+        loop: true,
+        direction : 'vertical',
+        preventClicksPropagation:true,
+        loopFillGroupWithBlank: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        
+        paginationClickable: true,
+        // spaceBetween: 10,
+        initialSlide:3,
+        onSlideNextEnd: function(swiper){
+            // alert('网上;');
+            //获取下面的img图片
+            var imgurl = $('.swiper-slide-active ').css("background-image");
+            //获取内容文本
+            var txt = $('.swiper-slide-active').html();
+            var index=swiper.realIndex;
+            // alert(index);
+           
+            switch(index){
+                case 0:
+                    $('.swiper-slide-active').css("background-image","url('images/K1_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 1:
+                    $('.swiper-slide-active').css("background-image","url('images/ball_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 2:
+                    $('.swiper-slide-active').css("background-image","url('images/gun_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 3:
+                    $('.swiper-slide-active').css("background-image","url('images/zj_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                break;
+
+                default:
+                  console.log("default");
+            }          
+        },
+        onSlidePrevEnd: function(swiper){
+            //获取下面的img图片
+            var imgurl = $('.swiper-slide-active ').css("background-image");
+            //获取内容文本
+            var txt = $('.swiper-slide-active').html();
+            var index=swiper.realIndex;
+            // alert(index);
+            switch(index){
+                case 0:
+                    $('.swiper-slide-active').css("background-image","url('images/K1_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 1:
+                    $('.swiper-slide-active').css("background-image","url('images/ball_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 2:
+                    $('.swiper-slide-active').css("background-image","url('images/gun_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                break;
+                case 3:
+                    $('.swiper-slide-active').css("background-image","url('images/zj_y.png')");
+                    console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                    $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                    $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                    $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                break;
+
+                default:
+                    console.log("default");
+            }          
+        }
+        
+    });
+    flage=211;
+    console.log("flage"+flage);
+
+    </script>
+</body>
+</html>

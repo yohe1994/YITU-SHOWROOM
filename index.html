@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Swiper demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <style type="text/css">
+        body { -ms-touch-action: none; }
+    </style>
+    <!-- Demo styles -->
+    <style>
+
+    html, body {
+        height: 100%;
+        width: 100%;
+        background-color: rgba(0,0,0,9);
+        background-size: cover;
+        min-height: 100%;
+        max-width:100%;
+    }
+    body {
+        background: rgba(0,0,0,0);
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .code {
+        display: inline-block;
+        padding: 5px;
+        border: 1px solid #ccc;
+        color: #B0B0B0;
+        background-color: #173C47;
+        border-radius: 3px;
+      }
+
+      .overlay {
+        position: absolute;
+        display: inline-block;
+        width: 639px; /* same width as iframe below */
+        height: 523px; /* same height as iframe below */
+        pointer-events: none;
+      }
+
+      .c-tag {
+        color: #B38D36;
+      }
+
+      .c-attribute {
+        color: #48B093;
+      }
+    .swiper-container {
+        width: 23%;
+        height: 100%;
+        background: rgba(0,0,0,0);
+    }
+    .swiper-slide {
+        width: 60%;
+        height: 60%;
+        text-align: center;
+        font-size: 18px;
+        background: rgba(0,0,0,0);
+        
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    .hide{
+        display: none;
+    }
+
+    @font-face {
+        font-family: "Roboto Condensed";
+        font-style: normal;
+        font-weight: 400;
+        src: local('Roboto Condensed Regular'), local('RobotoCondensed-Regular'), url("roboto-font.ttf") format('truetype');
+    }
+
+    </style>
+     <!-- Swiper JS -->
+     <script src="js/swiper.min.js"></script>
+     <script src="js/jquery.min.js"></script>
+     <script src="https://code.createjs.com/easeljs-0.7.1.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+</head>
+<body>
+    <div style="position:relative;left: 15.45%;-webkit-transform: scale(0.62);">
+        <img src="./images/guang.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  height="1180px";width="36%"   >
+        <!-- <img src="./images/particle.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"  > -->
+        <div style="position: absolute;z-index: 3;background-color: rgba(0,0,0,0);height: 501px; width: 43%;margin-top: 25%;">
+            <!-- <iframe src="particle.html"
+                allowfullscreen
+                style="position: absolute; top: 0px; left: 0px; height: 117%; width: 1px; min-width: 77%; *width: 100%;    background-color: rgba(0,0,0,0);"
+                frameborder="0"
+                scrolling="no">
+            </iframe> -->
+            <canvas id="projector" style="width: 73%;height: 110%;margin-left: 22%;"></canvas>
+        </div>
+        <!-- <div class="overlay" id="overlay">&nbsp;</div> -->
+        
+        <div style=" background-color: rgba(0,0,0,0);left: -22.5%;width: 103%;
+        margin-top: 2.5%;
+        height: 975px;
+        position: absolute;
+        overflow: hidden;
+        z-index: 5;
+        background-repeat: no-repeat;
+        background-size: cover;">
+          <iframe src="zhaji_model.html" id="mode_html"
+                  allowfullscreen
+                  style="position: absolute;
+                  top: 217px;
+                  left: 168px;
+                  height: 117%;
+                  width: 1px;
+                  min-width: 70%;
+                  background-color: rgba(0,0,0,0);"
+                  frameborder="0"
+                  scrolling="no">
+          </iframe>
+        </div>
+        <img src="./images/back_image.jpg" style="position:absolute; width: 737.5px ;z-index:1;background-color: rgba(0,0,0,0)"  height="1180px"; width="737.5px" >
+        
+        <!-- describe content -->
+        <div id="zj_text" class="">
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    font-size: 9.5pt;
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    color: white;
+                    font-weight: 100;
+                    margin-top:22.5%;
+                    text-align: left;"  width="36%">
+                <span style="letter-spacing: 0px;">YT-STPA300系列是集成依图领先智能视觉算法,搭载高性能6核</span></br>
+                <span>处理器，结合机身一体化工业设计，支持全场景（室内外）使用，</span></br>
+                <span>实现通道智能化安全管理的智能人脸识别终端。搭配依图园区管</span></br>
+                <span>理平台可实现访客管理，考勤管理，通行管理，布控报警等功能。</span>
+            </div>
+        
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    margin-top: 17%;
+                    color:#09ffd9;
+                    text-align: left;"  width="36%">
+                <span style="font-size: 17pt;font-family:Roboto Condensed;font-weight: 700;">YT-STPA300</span></br>
+                <span style="font-size: 12pt;font-family: PingFangSC-Light, sans-serif;">智能人脸识别闸机终端版</span>
+            </div>
+        </div>
+
+        <div id="k1_text" class="hide">
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    font-size: 9.5pt;
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    color: white;
+                    font-weight: 100;
+                    margin-top: 22.5%;
+                    text-align: left;"  width="36%">
+                <span>YT-STK1系列智能人脸识别终端是基于依图专有的业界领先的深</span></br>
+                <span>度学习人脸识别算法研发，针对智能楼宇，智能园区场景推出的</span></br>
+                <span>非接触式出入控制解决方案。开放丰富API接口，可对接第三方</span></br>
+                <span>管理平台，满足更多不同场景需求。</span>
+            </div>
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    margin-top: 17%;
+                    color:#09ffd9;
+                    text-align: left;"  width="36%">
+                <span style="font-size: 17pt;font-family:Roboto Condensed;font-weight: 700;">YT-STK1</span></br>
+                <span style="font-size: 12pt;font-family: PingFangSC-Light, sans-serif;">智能人脸识别终端</span>
+            </div>
+        </div>
+
+        <div id="ball_text" class="hide">
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    font-size: 8pt;
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    color: white;
+                    font-weight: 100;
+                    margin-top:22.5%;
+                    text-align: left;"  width="36%">
+                <span>CA250系列是基于依图领先的深度学习人脸识别算法研发，可以</span></br>
+                <span>360度全角度锁定人脸并进行对比，同时具有极低的误报率，适</span></br>
+                <span>用于小区、公园、街道、机场等人流量较大的场景进行监控。</span></br>
+            </div>
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    margin-top: 17%;
+                    color:#09ffd9;
+                    text-align: left;"  width="36%">
+                <span style="font-size: 17pt;font-family:Roboto Condensed;font-weight: 700;">CA250</span></br>
+                <span style="font-size: 12pt;font-family: PingFangSC-Light, sans-serif;">智能人脸识别球机</span>
+            </div>
+        </div>
+
+        <div id="gun_text" class="hide">
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    font-size: 8pt;
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    color: white;
+                    font-weight: 100;
+                    margin-top: 22.5%;
+                    text-align: left;"  width="35%">
+                <span>CA240系列是基于依图领先的深度学习人脸识别算法研发，可以</span></br>
+                <span>精准锁定大量人脸并进行对比，同时具有极低的误报率，适用于</span></br>
+                <span>小区、街道、机场、车站等场景进行监控。</span></br>
+            </div>
+            <div style="position: absolute;
+                    z-index: 7;
+                    background-color: rgba(0,0,0,0);
+                    margin-left: 4.3%;
+                    font-family: PingFangSC-Light, sans-serif;
+                    margin-top: 17%;
+                    color:#09ffd9;
+                    text-align: left;"  width="36%">
+                <span style="font-size: 17pt;font-family:Roboto Condensed;font-weight: 700;">CA240</span></br>
+                <span style="font-size: 12pt;font-family: PingFangSC-Light, sans-serif;">智能人脸识别枪机</span>
+            </div>
+        </div>
+
+        <!-- swiper content -->
+        <div class="swiper-container" id="container" style="position:absolute; z-index:5;height:310px;background-color: rgba(0,0,0,0);width: 8%;       margin-left:43%;
+        margin-top: 37.5%;">               <div class="swiper-wrapper">
+                    <div class="swiper-slide swiperId0" style="background-image: url('images/K1_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId1" style="background-image: url('images/ball_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId2" style="background-image: url('images/gun_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                    <div class="swiper-slide swiperId3" style="background-image: url('images/zj_n.png');background-size: contain;background-repeat: no-repeat;" ></div>
+                </div>
+        </div>
+       
+        <img src="./images/under.png" style="position:absolute; top:13px; z-index:2;background-color: rgba(0,0,0,0)" height="1180px";width="36%" >
+    </div>
+    <script>
+
+    var swiper = new Swiper('.swiper-container', {
+        // effect : 'fade',
+        slidesPerGroup:1,
+        slidesPerView: 3,
+        centeredSlides:true,
+        loop: true,
+        direction : 'vertical',
+        preventClicksPropagation:true,
+        loopFillGroupWithBlank: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        
+        paginationClickable: true,
+        // spaceBetween: 10,
+        initialSlide:3,
+        onSlideNextEnd: function(swiper){
+            // alert('网上;');
+            //获取下面的img图片
+            var imgurl = $('.swiper-slide-active ').css("background-image");
+            //获取内容文本
+            var txt = $('.swiper-slide-active').html();
+            var index=swiper.realIndex;
+            // alert(index);
+            change_model(index,txt,imgurl);
+        },
+        onSlidePrevEnd: function(swiper){
+            //获取下面的img图片
+            var imgurl = $('.swiper-slide-active ').css("background-image");
+            //获取内容文本
+            var txt = $('.swiper-slide-active').html();
+            var index=swiper.realIndex;
+            var mode_html=$("#mode_html").attr("src");
+            // alert(index);
+            change_model(index,txt,imgurl);
+        }
+        
+    });
+
+    /*
+      滑动切换模型
+    */
+   function change_model(index,txt,imgurl){
+        switch(index){
+            case 0:
+                $('.swiper-slide-active').css("background-image","url('images/K1_y.png')");
+                console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                $("#mode_html").attr("src","k1_model.html");
+
+                $("#k1_text").removeClass("hide");
+                $("#gun_text").addClass("hide");
+                $("#zj_text").addClass("hide");
+                $("#ball_text").addClass("hide");
+            break;
+            case 1:
+                $('.swiper-slide-active').css("background-image","url('images/ball_y.png')");
+                console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                $("#mode_html").attr("src","ball_model.html");
+
+                $("#ball_text").removeClass("hide");
+                $("#gun_text").addClass("hide");
+                $("#zj_text").addClass("hide");
+                $("#k1_text").addClass("hide");
+            break;
+            case 2:
+                $('.swiper-slide-active').css("background-image","url('images/gun_y.png')");
+                console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                $('.swiperId3').css("background-image","url('images/zj_n.png')");
+                $("#mode_html").attr("src","gun_model.html");
+
+                $("#gun_text").removeClass("hide");
+                $("#ball_text").addClass("hide");
+                $("#zj_text").addClass("hide");
+                $("#k1_text").addClass("hide");
+            break;
+            case 3:
+                $('.swiper-slide-active').css("background-image","url('images/zj_y.png')");
+                console.log("内容："+txt+"===索引值："+index+"imgurl"+imgurl);
+                $('.swiperId1').css("background-image","url('images/ball_n.png')");
+                $('.swiperId0').css("background-image","url('images/K1_n.png')");
+                $('.swiperId2').css("background-image","url('images/gun_n.png')");
+                $("#mode_html").attr("src","zhaji_model.html");
+
+                $("#zj_text").removeClass("hide");
+                $("#ball_text").addClass("hide");
+                $("#gun_text").addClass("hide");
+                $("#k1_text").addClass("hide");
+            break;
+
+            default:
+                console.log("default");
+        }          
+
+   }
+
+    </script>
+    <script>
+            var ParticleEngine = (function() {
+                'use strict';
+            
+                function ParticleEngine(canvas_id) {
+                    // enforces new
+                    if (!(this instanceof ParticleEngine)) {
+                        return new ParticleEngine(args);
+                    }
+                    
+                    var _ParticleEngine = this;
+            
+                    this.canvas_id = canvas_id;
+                    this.stage = new createjs.Stage(canvas_id);
+                    this.totalWidth = this.canvasWidth = document.getElementById(canvas_id).width = document.getElementById(canvas_id).offsetWidth;
+                    this.totalHeight = this.canvasHeight = document.getElementById(canvas_id).height = document.getElementById(canvas_id).offsetHeight;
+                    this.compositeStyle = "lighter";
+            
+                    this.particleSettings = [{id:"small", num:200, fromX:0, toX:this.totalWidth, ballwidth:2, alphamax:1, areaHeight:.5, color:"#0cdbf3", fill:true}, 
+                                            {id:"medium", num:70, fromX:0, toX:this.totalWidth,  ballwidth:5, alphamax:2, areaHeight:1, color:"#6fd2f3", fill:true}, 
+                                            {id:"large", num:10, fromX:0, toX:this.totalWidth, ballwidth:8,  alphamax:1, areaHeight:1, color:"#93e9f3", fill:true}];
+                    this.particleArray = [];
+                    this.lights = [{ellipseWidth:100, ellipseHeight:100, alpha:0.6, offsetX:0, offsetY:0, color:"rgb(28, 39, 48)"}, 
+                                    {ellipseWidth:100, ellipseHeight:250, alpha:0.3, offsetX:50, offsetY:0, color:"rgb(33, 57, 70)"}, 
+                                    {ellipseWidth:100, ellipseHeight:80, alpha:0.2, offsetX:80, offsetY:-50, color:"rgb(33, 57, 70)"}];
+            
+                    this.stage.compositeOperation = _ParticleEngine.compositeStyle;
+            
+            
+                    function drawBgLight()
+                    {
+                        var light;
+                        var bounds;
+                        var blurFilter;
+                        for (var i = 0, len = _ParticleEngine.lights.length; i < len; i++) {				
+                            light = new createjs.Shape();
+                            light.graphics.beginFill(_ParticleEngine.lights[i].color).drawEllipse(0, 0, _ParticleEngine.lights[i].ellipseWidth, _ParticleEngine.lights[i].ellipseHeight);
+                            light.regX = _ParticleEngine.lights[i].ellipseWidth/2;
+                            light.regY = _ParticleEngine.lights[i].ellipseHeight/2; 
+                            light.y = light.initY = _ParticleEngine.totalHeight/2 + _ParticleEngine.lights[i].offsetY;
+                            light.x = light.initX =_ParticleEngine.totalWidth/2 + _ParticleEngine.lights[i].offsetX;
+            
+                            blurFilter = new createjs.BlurFilter(_ParticleEngine.lights[i].ellipseWidth, _ParticleEngine.lights[i].ellipseHeight, 1);
+                            bounds = blurFilter.getBounds();
+                            light.filters = [blurFilter];
+                            light.cache(bounds.x-_ParticleEngine.lights[i].ellipseWidth/2, bounds.y-_ParticleEngine.lights[i].ellipseHeight/2, bounds.width*2, bounds.height*2);
+                            light.alpha = _ParticleEngine.lights[i].alpha;
+            
+                            light.compositeOperation = "screen";
+                            _ParticleEngine.stage.addChildAt(light, 0);
+            
+                            _ParticleEngine.lights[i].elem = light;
+                        }
+            
+                        TweenMax.fromTo(_ParticleEngine.lights[0].elem, 10, {scaleX:1.5, x:_ParticleEngine.lights[0].elem.initX, y:_ParticleEngine.lights[0].elem.initY},{yoyo:true, repeat:-1, ease:Power1.easeInOut, scaleX:2, scaleY:0.7});
+                        TweenMax.fromTo(_ParticleEngine.lights[1].elem, 12, { x:_ParticleEngine.lights[1].elem.initX, y:_ParticleEngine.lights[1].elem.initY},{delay:5, yoyo:true, repeat:-1, ease:Power1.easeInOut, scaleY:2, scaleX:2, y:_ParticleEngine.totalHeight/2-50, x:_ParticleEngine.totalWidth/2+100});
+                        TweenMax.fromTo(_ParticleEngine.lights[2].elem, 8, { x:_ParticleEngine.lights[2].elem.initX, y:_ParticleEngine.lights[2].elem.initY},{delay:2, yoyo:true, repeat:-1, ease:Power1.easeInOut, scaleY:1.5, scaleX:1.5, y:_ParticleEngine.totalHeight/2, x:_ParticleEngine.totalWidth/2-200});
+                    }
+                    
+                    var blurFilter;
+                    function drawParticles(){
+            
+                        for (var i = 0, len = _ParticleEngine.particleSettings.length; i < len; i++) {
+                            var ball = _ParticleEngine.particleSettings[i];
+            
+                            var circle;
+                            for (var s = 0; s < ball.num; s++ )
+                            {
+                                circle = new createjs.Shape();
+                                if(ball.fill){
+                                    circle.graphics.beginFill(ball.color).drawCircle(0, 0, ball.ballwidth);
+                                    blurFilter = new createjs.BlurFilter(ball.ballwidth/2, ball.ballwidth/2, 1);
+                                    circle.filters = [blurFilter];
+                                    var bounds = blurFilter.getBounds();
+                                    circle.cache(-50+bounds.x, -50+bounds.y, 100+bounds.width, 100+bounds.height);
+                                }else{
+                                    circle.graphics.beginStroke(ball.color).setStrokeStyle(1).drawCircle(0, 0, ball.ballwidth);
+                                }
+                                
+                                circle.alpha = range(0, 0.1);
+                                circle.alphaMax = ball.alphamax;
+                                circle.distance = ball.ballwidth * 2;
+                                circle.ballwidth = ball.ballwidth;
+                                circle.flag = ball.id;
+                                _ParticleEngine.applySettings(circle, ball.fromX, ball.toX, ball.areaHeight);
+                                circle.speed = range(2, 10);
+                                circle.y = circle.initY;
+                                circle.x = circle.initX;
+                                circle.scaleX = circle.scaleY = range(0.3, 1);
+            
+                                _ParticleEngine.stage.addChild(circle);
+                                
+            
+                                animateBall(circle);
+            
+                                _ParticleEngine.particleArray.push(circle);
+                            }
+                        }	
+                    }
+            
+                    this.applySettings = function(circle, positionX, totalWidth, areaHeight)
+                    {
+                        circle.speed = range(1, 3);
+                        circle.initY = weightedRange(0, _ParticleEngine.totalHeight , 1, [_ParticleEngine.totalHeight * (2-areaHeight/2)/4, _ParticleEngine.totalHeight*(2+areaHeight/2)/4], 0.8 );
+                        circle.initX = weightedRange(positionX, totalWidth, 1, [positionX+ ((totalWidth-positionX))/4, positionX+ ((totalWidth-positionX)) * 3/4], 0.6);
+                    }
+            
+                    function animateBall(ball)
+                    {
+                        var scale = range(0.3, 1);
+                        var xpos = range(ball.initX - ball.distance, ball.initX + ball.distance);
+                        var ypos = range(ball.initY - ball.distance, ball.initY + ball.distance);
+                        var speed = ball.speed;
+                        TweenMax.to(ball, speed, {scaleX:scale, scaleY:scale, x:xpos, y:ypos, onComplete:animateBall, onCompleteParams:[ball], ease:Cubic.easeInOut});	
+                        TweenMax.to(ball, speed/2, {alpha:range(0.1, ball.alphaMax), onComplete:fadeout, onCompleteParams:[ball, speed]});	
+                    }	
+            
+                    function fadeout(ball, speed)
+                    {
+                        ball.speed = range(2, 10);
+                        TweenMax.to(ball, speed/2, {alpha:0 });
+                    }
+            
+                    drawBgLight();
+                    drawParticles();
+                }
+            
+                ParticleEngine.prototype.render = function()
+                {
+                    this.stage.update();
+                }
+            
+                ParticleEngine.prototype.resize = function()
+                {
+                    this.totalWidth = this.canvasWidth = document.getElementById(this.canvas_id).width = document.getElementById(this.canvas_id).offsetWidth;
+                    this.totalHeight = this.canvasHeight = document.getElementById(this.canvas_id).height = document.getElementById(this.canvas_id).offsetHeight;
+                    this.render();
+            
+                    for (var i= 0, length = this.particleArray.length; i < length; i++)
+                    {
+                        this.applySettings(this.particleArray[i], 0, this.totalWidth, this.particleArray[i].areaHeight);
+                    }
+            
+                    for (var j = 0, len = this.lights.length; j < len; j++) {
+                        this.lights[j].elem.initY = this.totalHeight/2 + this.lights[j].offsetY;
+                        this.lights[j].elem.initX =this.totalWidth/2 + this.lights[j].offsetX;
+                        TweenMax.to(this.lights[j].elem, .5, {x:this.lights[j].elem.initX, y:this.lights[j].elem.initY});			
+                    }
+                }
+            
+                return ParticleEngine;
+            
+            }());
+            
+            
+            ////////////////////////UTILS//////////////////////////////////////
+            //////////////////////////////////////////////////////////////////
+            
+            function range(min, max)
+            {
+                return min + (max - min) * Math.random();
+            }
+                    
+            function round(num, precision)
+            {
+               var decimal = Math.pow(10, precision);
+               return Math.round(decimal* num) / decimal;
+            }
+            
+            function weightedRange(to, from, decimalPlaces, weightedRange, weightStrength)
+            {
+                if (typeof from === "undefined" || from === null) { 
+                    from = 0; 
+                }
+                if (typeof decimalPlaces === "undefined" || decimalPlaces === null) { 
+                    decimalPlaces = 0; 
+                }
+                if (typeof weightedRange === "undefined" || weightedRange === null) { 
+                    weightedRange = 0; 
+                }
+                if (typeof weightStrength === "undefined" || weightStrength === null) { 
+                    weightStrength = 0; 
+                }
+            
+               var ret
+               if(to == from){return(to);}
+             
+               if(weightedRange && Math.random()<=weightStrength){
+                  ret = round( Math.random()*(weightedRange[1]-weightedRange[0]) + weightedRange[0], decimalPlaces )
+               }else{
+                  ret = round( Math.random()*(to-from)+from, decimalPlaces )
+               }
+               return(ret);
+            }
+            
+            ///////////////// RUN CODE //////////////////////////
+            //////////////////////////////////////////////////////
+            
+            var particles
+            (function(){
+                particles = new ParticleEngine('projector');
+                createjs.Ticker.addEventListener("tick", updateCanvas);
+                window.addEventListener('resize', resizeCanvas, false);
+            
+                function updateCanvas(){
+                    particles.render();
+                }
+            
+                function resizeCanvas(){
+                    particles.resize();
+                }
+            }());
+            </script>
+</body>
+</html>

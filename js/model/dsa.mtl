@@ -1,0 +1,3582 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Anodized Black #17
+Kd 0 0 0
+Ks 0.15378 0.15378 0.15378
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #16
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #12
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Anodized Black #15
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Glass Basic White
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Anodized Black #14
+Kd 0 0 0
+Ks 0.221454 0.221454 0.221454
+
+newmtl Glass Refractive Black #244
+Kd 0.5 0.5 0.5
+
+newmtl Glass Refractive Black #244
+Kd 0.5 0.5 0.5
+
+newmtl Glass Refractive Black #244
+Kd 0.5 0.5 0.5
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black #4
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Basic Black #1
+Kd 0 0 0
+Ks 0.196078 0.196078 0.196078
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl Glass Refractive Black #242
+Kd 0 0 0
+Ks 1 1 1
+
+newmtl initialShadingGroup
+Kd 0.2 0.3 0.5
+Ks 0 0 0
+
+newmtl initialShadingGroup #1
+Kd 0.2 0.3 0.5
+Ks 0 0 0

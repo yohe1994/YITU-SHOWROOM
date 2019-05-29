@@ -1,0 +1,108 @@
+<!--
+  KeyShot VR
+  (c) Copyright 2012-2014 Luxion ApS - All Rights Reserved.
+
+  Instructions for deploying KeyShotVR to a website and sharing via email.
+-->
+
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>KeyShotVR instructions</title>
+    <style>
+
+      *, html, body {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        /* color: #666666; */
+        /* background-image: url("./images/back_image.jpg"); */
+        background-color: rgba(0,0,0,9);
+        background-size: cover;
+        min-height: 100%;
+        max-width:100%;
+        /* background-repeat: no-repeat; */
+      }
+
+      /* .code {
+        display: inline-block;
+        padding: 5px;
+        border: 1px solid #ccc;
+        color: #B0B0B0;
+        background-color: #173C47;
+        border-radius: 3px;
+      }
+
+      .overlay {
+        position: absolute;
+        display: inline-block;
+        width: 639px; /* same width as iframe below */
+        height: 523px; /* same height as iframe below */
+        pointer-events: none;
+      }
+
+      .c-tag {
+        color: #B38D36;
+      }
+
+      .c-attribute {
+        color: #48B093;
+      } */
+
+    </style>
+        <script src="js/jquery.min.js"></script>
+  </head>
+  <body>
+    <div style="position:relative;left: 33%;">
+      <!-- <img src="./images/guang.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"   >
+      <img src="./images/particle.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"  >
+       -->
+      <!-- <img src="./images/left.png" style="position:absolute; z-index:3;background-color: rgba(0,0,0,0)"  width="33%"  > -->
+      <div class="overlay" id="overlay">&nbsp;</div>
+      <div style="background-color: rgba(0,0,0,0);left: 8%; width: 22%;margin-top: 25%;height: 310px; position: absolute; overflow: hidden;z-index: 4;">
+        <iframe src="zhaji_model.html" id="model_iframe"
+                allowfullscreen
+                style="position: absolute; top: 0px; left: 0px; height: 10%; width: 1px; min-width: 77%; *width: 100%;    background-color: rgba(0,0,0,0);"
+                frameborder="0"
+                scrolling="no">
+        </iframe>
+      </div>
+      <img src="./images/back_image.jpg" style="position:absolute; z-index:1;background-color: rgba(0,0,0,0)"  width="33%"  >
+      <!-- <img src="./images/right.png" style="position:absolute; z-index:1;background-color: rgba(0,0,0,0)"  width="33%"  > -->
+      <iframe src="change_pro_page.html" name="myiframe" id="change_pro_page"
+              allowfullscreen
+              style="position:absolute; z-index:3;height:310px;background-color: rgba(0,0,0,0);width: 8%;    margin-left: 27.5%;
+              margin-top: 22%;"
+              frameborder="0"
+              scrolling="no">
+      </iframe>
+      <img src="./images/under.png" style="position:absolute; top:13px; z-index:2;background-color: rgba(0,0,0,0)" width="33%" >
+    </div>
+   <script>
+     var flage=11;
+   var blockEvent = true;
+   if (blockEvent) {
+     var overlay = document.getElementById("overlay");
+
+     document.addEventListener("mousedown", function(e) {
+       overlay.style.pointerEvents = "none";
+     }, false);
+
+     document.addEventListener("mouseup", function(e) {
+       overlay.style.pointerEvents = "auto";
+     }, false);
+     
+   }
+
+// //调用子页面的方法.
+// var childWindow = $("#change_pro_page")[0].contentWindow; //表示获取了嵌入在iframe中的子页面的window对象。  []将JQuery对象转成DOM对象，用DOM对象的contentWindow获取子页面window对象。
+// childWindow.init();  //调用子页面中的subFunction方法。
+// document.getElementById("change_pro_page").contentWindow.findMyData(new_orgId,response.result.priDict.code);
+
+// var d=document.getElementById('change_pro_page').contentWindow.test();
+var tet = document.getElementById('change_pro_page').contentWindow.document; 
+console.log("change_pro_page"+flage);
+
+   </script>
+  </body>
+</html>
